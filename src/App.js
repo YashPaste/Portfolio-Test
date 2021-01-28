@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
 import Fade from 'react-reveal/Fade'
+import Slide from "react-reveal/Slide";
 import { theme } from "./themes/Theme";
+import Skills from "./pages/skills/skills.component";
 import MyNavbar from "./components/my-navbar/mynavbar.component";
 import TitleMessage from "./components/title-message/title-message.component"
 import MyCarousal from "./components/my-carousal/my-carousal.component";
@@ -9,6 +11,7 @@ import About from "./pages/about/about.component"
 import {Parallax} from "react-parallax"
 import Container from "react-bootstrap/Container"
 import image1 from './assets/img/parallex/background.webp';
+
 const App = () => {
   return( 
   <div className="App" style={{ position: "relative" }}> 
@@ -31,6 +34,12 @@ const App = () => {
           </div>
         </Parallax>
       </div>
+      <Container className="container-box rounded">
+        <Slide left duration={1000}>
+          <hr />
+          <Skills />
+        </Slide>
+      </Container>
   </div>
   );
 };
