@@ -7,8 +7,6 @@ import Profile from "../../assets/img/profile/profile1.jpeg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faGrinBeam } from '@fortawesome/free-solid-svg-icons'
 
 
 // import FontAwesomeIcon  from '@fortawesome/fontawesome-free'

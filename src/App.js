@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import Fade from 'react-reveal/Fade'
 import Slide from "react-reveal/Slide";
-import { theme } from "./themes/Theme";
 import Skills from "./pages/skills/skills.component";
 import MyNavbar from "./components/my-navbar/mynavbar.component";
 import MyTitleMessage from "./components/title-message/title-message.component"
@@ -14,8 +13,6 @@ import image1 from './assets/img/parallex/background.webp';
 import TimeLine from './components/project-timeline/project-timeline.component'
 import ContactForm from './pages/contact-form/contact-form.component'
 import FooterPanel from "./components/footer/footer.component";
-import Particles from "react-particles-js";
-import { particlesOptions } from "./themes/particlesOptions";
 
 const App = () => {
   return( 
