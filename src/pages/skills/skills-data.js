@@ -79,7 +79,7 @@ export const skills = {
       skillName: "Numpy",
     },
     {
-        link: "https://www.scipy.org/",
+        link: "https://scrapy.org/",
         imgAltText: "Scipy",
         imgSrc: L_SCIPY,
         skillName: "Scipy",
