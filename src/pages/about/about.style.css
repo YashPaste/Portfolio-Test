@@ -9,8 +9,14 @@
   
   .my-details {
     background-color: rgba(255, 255, 255, 0.747);
+
   }
   .testing {
       font-size: 1.5em;
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
   }
+.content {
+  font-size: 1.1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

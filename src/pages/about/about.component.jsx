@@ -24,17 +24,20 @@ const About = () => {
               </Row>
             </Col>
             <Col xs={12} md={6}>
-              <Row className="align-items-start p-2 my-details rounded">
-               <div className="testing"> Hey there! I am<strong>&nbsp; Yash Balkrishna Paste&nbsp;😄</strong> </div>           
-               <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
+              <Row className="align-items-start p-3 my-details rounded">
+               <div className="testing"> Hey there! I am<strong>&nbsp; Yash Balkrishna Paste&nbsp;😄</strong> </div>  
+               <div className="content">         
+               <br />A Frontend web devoloper and a Machine Learning Enthusiast.
                 <br />
-                In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
-                <br />
-                Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+               I am currently pursuing by B.Tech in Metallurgical and Materials Engineering from National Institute of Technology, Tiruchirapalli [NITT]. I have completed my secondary education 
+               from Kendriya Vidyalaya Ashok Nagar, Chennai.
+               <br/>  
+                
+                I enjoy playing, watching and analysing cricket, reading mangas and watching anime.
+
+                <br />I love exploring new technologies, to better understand the problems they solve and ways in which they can be used to build better and scalable products.
                 <br /> <br />
+                </div>
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
