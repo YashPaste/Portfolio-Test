@@ -27,9 +27,9 @@ const About = () => {
               <Row className="align-items-start p-3 my-details rounded">
                <div className="testing"> Hey there! I am<strong>&nbsp; Yash Balkrishna Paste&nbsp;😄</strong> </div>  
                <div className="content">         
-               <br />A Frontend web devoloper and a Machine Learning Enthusiast.
+               <br />A Frontend web developer and a Machine Learning Enthusiast.
                 <br />
-               I am currently pursuing by B.Tech in Metallurgical and Materials Engineering from National Institute of Technology, Tiruchirapalli [NITT]. I have completed my secondary education 
+               I am currently pursuing my B.Tech in Metallurgical and Materials Engineering from National Institute of Technology, Tiruchirapalli [NITT]. I have completed my secondary education 
                from Kendriya Vidyalaya Ashok Nagar, Chennai.
                <br/>  
                 
